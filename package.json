@@ -1,0 +1,23 @@
+{
+  "name": "Parachains_Custom_Types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseAbram/Parachains_Custom_Types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesseAbram/Parachains_Custom_Types/issues"
+  },
+  "homepage": "https://github.com/JesseAbram/Parachains_Custom_Types#readme",
+  "dependencies": {
+    "@polkadot/api": "^0.81.1"
+  }
+}
