@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JesseAbram/Parachains_Custom_Types#readme",
   "dependencies": {
-    "@polkadot/api": "^0.81.1"
-  }
+    "@polkadot/api": "^0.79.1",
+    "edgeware-node-types": "^1.0.1"
+ }
 }

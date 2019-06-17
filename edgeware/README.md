@@ -1,0 +1,1 @@
+Edgewares official guide on connecting can be found here https://github.com/hicommonwealth/edgeware-node-types
