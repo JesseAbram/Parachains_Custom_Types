@@ -2,7 +2,7 @@ const { ApiPromise, WsProvider } = require("@polkadot/api");
 
  const getApi = async () => {
   // Initialise the provider to connect to the local node
-  const robonomicsWSS = "wss://robonomics.akru.me/";
+  const robonomicsWSS = "";
   const provider = new WsProvider(`${robonomicsWSS}`);
 
   // Create the API and wait until ready
