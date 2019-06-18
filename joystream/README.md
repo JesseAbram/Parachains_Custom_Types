@@ -1,0 +1,1 @@
+more information can be found here https://github.com/Joystream/joystream-api-examples

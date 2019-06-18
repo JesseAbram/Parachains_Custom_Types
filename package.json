@@ -19,6 +19,11 @@
   "homepage": "https://github.com/JesseAbram/Parachains_Custom_Types#readme",
   "dependencies": {
     "@polkadot/api": "^0.79.1",
-    "edgeware-node-types": "^1.0.1"
+    "edgeware-node-types": "^1.0.1",
+    "@joystream/types": "^0.2.1"
+ },
+ "resolutions": {
+  "@polkadot/keyring": "^0.92.1",
+  "@polkadot/types": "^0.79.1"
  }
 }
