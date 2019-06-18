@@ -1,0 +1,19 @@
+{
+  "name": "cennznet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cennznet/api": "^0.13.7",
+    "@cennznet/crml-cennzx-spot": "^0.5.6",
+    "@cennznet/crml-generic-asset": "^0.9.0"
+  },
+  "engines": {
+    "node": "10"
+  }
+}
